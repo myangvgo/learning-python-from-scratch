@@ -2,4 +2,4 @@
 
 零基础学 Python 项目笔记
 
-- [Chapter 01 - Python Environment Setup](chapter01-env-setup\README.md)
+- [Chapter 01 - Python Environment Setup](chapter01-env-setup)
